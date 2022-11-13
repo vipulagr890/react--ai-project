@@ -2,13 +2,6 @@ import React from "react";
 import Rank from "./Rank";
 
 const Home = () => {
-  // const handleSubmit = (event) => {
-  //   event.preventDefault();
-  //   event.target[0].value
-  //     ? console.log(event.target[0].value)
-  //     : console.log(event.target[1].file);
-  // };
-
   return (
     <div className="home">
       <Rank />
